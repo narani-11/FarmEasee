@@ -4,13 +4,13 @@ FarmEasee is a React web application that connects farmers directly with consume
 
 ## 🌱 Features
 
-- **Consumer Marketplace**: Browse and search for fresh produce from local farmers
-- **Product Filtering**: Search by name and filter by category (Vegetables, Fruits, etc.)
-- **Farmer Dashboard**: Farmers can add, view, and manage their product listings
-- **Buy Flow**: Simple order form for consumers to purchase products
-- **Feedback System**: Users can provide feedback to help improve the platform
-- **Responsive Design**: Optimized for mobile, tablet, and desktop devices
-- **Modern UI**: Clean interface with smooth notifications instead of browser alerts
+- **Consumer Marketplace**: Browse and search for fresh produce from local farmers.
+- **Product Filtering**: Search by name and filter by category (Vegetables, Fruits, etc.).
+- **Farmer Dashboard**: Farmers can add, view, and manage their product listings.
+- **Buy Flow**: Simple order form for consumers to purchase products.
+- **Feedback System**: Users can provide feedback to help improve the platform.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
+- **Modern UI**: Clean interface with smooth notifications instead of browser alerts.
 
 ## 🚀 Getting Started
 
